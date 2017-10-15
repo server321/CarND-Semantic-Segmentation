@@ -22,12 +22,12 @@ We saved the final model and weights in the run directory. We aslo saved the fin
 Semantic segmentation project sample results:
 
 [image1]: ./images/1.png
-[image1]: ./images/2.png
-[image1]: ./images/3.png
-[image1]: ./images/4.png
-[image1]: ./images/5.png
-[image1]: ./images/6.png
-[image1]: ./images/7.png
+[image2]: ./images/2.png
+[image3]: ./images/3.png
+[image4]: ./images/4.png
+[image5]: ./images/5.png
+[image6]: ./images/6.png
+[image7]: ./images/7.png
 
 
 
