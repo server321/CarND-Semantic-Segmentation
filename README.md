@@ -17,8 +17,10 @@ We use cross-entropy loss function and Adam optimizer. We try different configur
 
 We saved the final model and weights in the run directory. We aslo saved the final inference images there.
 
-##Results
-Semantic segmentation project sample results":
+## Results
+
+Semantic segmentation project sample results:
+
 [image1]: ./images/1.png
 [image1]: ./images/2.png
 [image1]: ./images/3.png
